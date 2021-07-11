@@ -1,8 +1,8 @@
+## Hello, I'm Bruno 👋. Seeking knowledge all the time 🚀  
 <img align="right" src="https://github.com/BrunoFerreiraDev/BrunoFerreiraDev/blob/main/illustration.png" width="450"/>
-<br/>
 
-## Hello, I'm Bruno 👋
-### 🚀 Seeking knowledge all the time [![GitHub BrunoFerreiraDev](https://img.shields.io/github/followers/BrunoFerreiraDev?label=follow&style=social)](https://github.com/BrunoFerreiraDev)<sub>ㅤ</sub>![](https://komarev.com/ghpvc/?username=BrunoFerreiraDev&style=flat-square&color=13b982&label=Profile%20views)
+[![GitHub BrunoFerreiraDev](https://img.shields.io/github/followers/BrunoFerreiraDev?label=follow&style=social)](https://github.com/BrunoFerreiraDev)<sub>ㅤ</sub>![](https://komarev.com/ghpvc/?username=BrunoFerreiraDev&style=flat-square&color=13b982&label=Profile%20views)
+<br/><br/>
 
 📫  How to reach me:<br/>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/BrunoFerreiraDev/)](https://www.linkedin.com/in/bruno-ferreira-santos-6b2428214/).
