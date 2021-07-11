@@ -1,3 +1,5 @@
+<img align="right" src="https://github.com/BrunoFerreiraDev/BrunoFerreiraDev/blob/master/imgGithub/illustration.jpg" width="300"/>
+
 ## Hello, I'm Bruno 👋
 ### 🚀 Seeking knowledge all the time [![GitHub BrunoFerreiraDev](https://img.shields.io/github/followers/BrunoFerreiraDev?label=follow&style=social)](https://github.com/BrunoFerreiraDev)<sub>ㅤ</sub>![](https://komarev.com/ghpvc/?username=BrunoFerreiraDev&style=flat-square&color=13b982&label=Profile%20views)
 
