@@ -1,6 +1,4 @@
-## Hello, I'm Bruno 👋. Seeking knowledge all the time 🚀  
-<img align="right" src="https://github.com/BrunoFerreiraDev/BrunoFerreiraDev/blob/main/illustration.png" width="450"/>
-
+## Hello, I'm Bruno 👋.  I'm always studying  🚀  <img align="right" src="https://github.com/BrunoFerreiraDev/BrunoFerreiraDev/blob/main/illustration.png" width="450"/>
 [![GitHub BrunoFerreiraDev](https://img.shields.io/github/followers/BrunoFerreiraDev?label=follow&style=social)](https://github.com/BrunoFerreiraDev)<sub>ㅤ</sub>![](https://komarev.com/ghpvc/?username=BrunoFerreiraDev&style=flat-square&color=13b982&label=Profile%20views)
 <br/><br/>
 
