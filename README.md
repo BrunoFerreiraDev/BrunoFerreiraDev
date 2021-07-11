@@ -9,7 +9,7 @@
 📖  Fun facts: I'm minimalist and I love economics.
 
 
-<div style ="text-align: center">
+
   ### Technologies I use/study on a daily basis
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/ildaneta/)](https://github.com/BrunoFerreiraDev/)
@@ -34,4 +34,4 @@
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/ildaneta/)](https://github.com/BrunoFerreiraDev/)
 <code><img height="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
- </div>
+
