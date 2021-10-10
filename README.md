@@ -33,5 +33,3 @@
 [![Figma](https://img.shields.io/badge/-Figma-ffbaba?style=flat-square&logo=figma)](https://github.com/ildaneta/)
 [![Dribbble](https://img.shields.io/badge/-Dribbble-d3a0c2?style=flat-square&logo=Dribbble&link=https://github.com/ildaneta/)](https://github.com/BrunoFerreiraDev/)
 <code><img height="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
